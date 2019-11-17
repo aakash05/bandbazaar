@@ -38,8 +38,10 @@ const headStyle = {
     float: 'right'
 }
 
+
 function Upcoming() {
     return(
+            
         <div className="Upcoming" style={{textAlign: 'center',marginTop: '-5%'}}>
             <section>
                 <div className="wave">

@@ -1,6 +1,7 @@
 .bg {
     /* The image used */
     background-image: url('../../assets/b22.jpg');
+    background-size: cover;
    
 
 }
