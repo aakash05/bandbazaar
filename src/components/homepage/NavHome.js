@@ -91,7 +91,7 @@ export default function NavHome() {
     <Nav className="ml-auto" >
     <Nav.Item>
                     <Nav.Link>
-                    <Link to="/login"><b>Login/Signp</b></Link>
+                    <Link to="/login"><b>Login/Sigup</b></Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
